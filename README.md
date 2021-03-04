@@ -1,5 +1,7 @@
 # Unicode-2020-21
 
+These are my solutions (up as soon as I can access them) and results for the Showcode Unicode challenge 2020/2021.
+
 | # | Challenge Name | Dates Open | Completed? | Score | Completition Time |
 | :-: | :---: | :---: | :---: | :---: | :---: |
 | 1 | Ready Player X | Nov 23rd - Dec 7th | ✅ | 100% | 00:28:37.7790000 |
