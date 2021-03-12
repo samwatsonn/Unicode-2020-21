@@ -11,7 +11,7 @@ These are my solutions (up as soon as I can access them) and results for the Sho
 | 5 | Fraud Alert | Jan 18th - Feb 1st | ✅ | 93% | 01:35:22.6500000 |
 | 6 | Strike | Feb 1st - 15th | ✅ | 80% | 01:24:17.9450000 |
 | 7 | Crack the Code | Feb 15th - Mar 1st | ✅ | 100% | 00:10:21.9960000 |
-| 8 | Alaric's Treasure | Mar 1st - 15th | | | |
+| 8 | Alaric's Treasure | Mar 1st - 15th | ✅ | 100% | 00:08:15.7510000 |
 | 9 | TBC | Mar 15th - 29th | | | |
 | 10 | TBC | Mar 29th - Apr 12th | | | |
 | 11 | TBC | April 12th - 26th | | | |
